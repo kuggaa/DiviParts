@@ -1,14 +1,14 @@
-# Project Title
+# Project DIVI Parts
 
-One Paragraph of project description goes here
+Divi Layouts are pre-made modules, rows, sections and pages for you to load into your Divi library and use in your Divi websites.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Link the URL to your upload and the zip file will transfer to your DIVI Project.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Must have DIVI 3.0x
 
 ```
 Give examples
@@ -16,9 +16,7 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Load files into lib. Divi tabs
 
 ```
 Give the example
@@ -30,15 +28,15 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+TBD
 
-## Running the tests
+## More Info
 
-Explain how to run the automated tests for this system
+tbd
 
-### Break down into end to end tests
+### More info2
 
-Explain what these tests test and why
+Explain what these tests
 
 ```
 Give an example
