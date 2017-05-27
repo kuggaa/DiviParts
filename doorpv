@@ -1,0 +1,79 @@
+(31)    Thu 3 Oct 91  4.29      Rcvd: Fri 4 Oct  9.48
+By: Pete Kvitek, JVD1BBS (2:5020/6)
+To: tomas bremin
+Re: hej
+St: Pvt Kill Rcvd
+------------------------------------------------------------
+@INTL 2:270/7 2:5020/6
+@MSGID: 2:5020/6 8a03fc9c
+@REPLY: 2:270/7@fidonet.eu 8988e8ac
+@PID: FM 2.02
+
+Hi Tomas!
+
+[other subjects discussed deleted]
+
+ > WOW!  This was *VERY* exciting news to us!  I can
+ > immediately see a nice part of a future brochure
+ > describing your use of our product.  :-)  Will you
+ > allow us to print that?
+
+Sure... we will be lucky to!
+
+ > Would you be willing to help
+ > me with some facts (i.e. how many nodes were hooked
+ > up, how many messages were sent, etc)?  What did the
+ > communication mean to the people outside Moscow who
+ > couldn't get information elsewhere?  And so on..
+
+This friday we'll have a Moscow sysops meeting -- i'll ask everybody to provide
+you with more detailed info about their board operation. My board activities
+can be shortly described like this:
+
+On Aug 19 I disabled all file transfers and all messages areas but SU.POL  --
+this is all union echo mail area. Tossing/packing in all other areas was
+disabled as well. Mailer was set to the every second hour mail only mode. Then
+I start calling out voice all my fellow sysops in Moscow and other places i
+could reach asking them to do the same and poll me. That was my job as a 2:5020
+NC... Approx. 2/3 boards were unable to make long distance calls (probably
+because the chiefs of theirs phone stations were following decrees of those
+putchists). So this boards were set up to collect info from Moscovites and
+provide them with the latest news through the echo mail they got making the
+local calls.  Others were set up mail only to make long distance connections.
+Mine were Leningrad, Kharkov, Kiev, Novosibirsk, Khabarovsk and Chelyabinsk.
+This covers pretty big area i must say.
+
+Everything worked fine 'till the night 20/21 Aug -- at this time the
+connections were cut one by one -- this was a big time for one FrontDoor
+feature: "Alt-B/F6-Change Destination" At 11am on 21 all long distance
+connections were back again.
+
+All this continued for 72 sleeples hours -- my girlfriend typed in reports told
+by various people to my answering machine, i was transferring this info and
+reports sent to my internet address by RIA (Russian Info Agency) and InterFax
+guys, and from all other people all other a world who sent words of support and
+CNN reports -- all this went to the FidoNet -- the only free of charge publicly
+available service available.
+
+It's hard to estimate the real number of messages passed through the 5020/6 --
+a lot of them where dupes, not in the sence of echo mail, but messages with the
+same info or a report genereted from different boards. Since there was no way
+to check who knows what the only way for everyone was to pump in all the info
+s/he got so far...
+
+I would say that the number of really different messages passed through 5020/6
+would be something around 300-400 with the total amount 1342...
+
+The FrontDoor mailer prooved to be extrimely flexible and reconfigurable. Can
+you imagine to set up a new network configuration for approx. 20-30 nodes
+spread out across 1/6 of the globe under the stress of the goverment putch?
+
+I can't... but now I know for sure that this can be done with FrontDoor.
+
+All the best,
+
+> Pete
+
+@Via FrontDoor 2:20/211@FidoNet, Oct 3 1991 at 8.00
+@Via Ping 2:201/329@fidonet, Oct 3 1991 at 06:11 UTC
+@Via MsgTrack+ 2:512/1@fidonet, Fri Oct 04 1991 at 01:30 UTC
