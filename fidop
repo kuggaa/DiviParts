@@ -1,0 +1,268 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>FrontDoor&#8217;s part in the 1991 Russian coup attempt | defsol.com</title>
+	<link rel="stylesheet" type="text/css" media="all" href="https://defsol.com/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="https://defsol.com/xmlrpc.php" />
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="defsol.com &raquo; Feed" href="https://defsol.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="defsol.com &raquo; Comments Feed" href="https://defsol.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/defsol.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='https://defsol.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://defsol.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://defsol.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='EMSI/IEMSI Protocol Definitions (FSC-0056)' href='https://defsol.com/documentation/emsiiemsi-protocol-definitions-fsc-0056/' />
+<link rel='next' title='Specifications for the ^aFLAGS field (FSC-0053)' href='https://defsol.com/documentation/specifications-for-the-aflags-field-fsc-0053/' />
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel='shortlink' href='https://defsol.com/?p=370' />
+<link rel="alternate" type="application/json+oembed" href="https://defsol.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdefsol.com%2Fdocumentation%2Ffrontdoors-part-in-the-1991-russian-coup-attempt%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://defsol.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdefsol.com%2Fdocumentation%2Ffrontdoors-part-in-the-1991-russian-coup-attempt%2F&#038;format=xml" />
+
+<!-- metadata inserted by keyword-statistics-plugin 1.7.8 http://www.keyword-statistics.net -->
+<meta name="robots" content="noodp,noarchive,noydir" />
+<link rel="canonical" href="https://defsol.com/documentation/frontdoors-part-in-the-1991-russian-coup-attempt/" />
+<!-- end of metadata -->
+</head>
+<body class="post-template-default single single-post postid-370 single-format-standard">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="https://defsol.com/">Home</a></li></ul>
+		<ul id="menu-foomenu" class="menu"><li id="menu-item-418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-418"><a href="https://defsol.com/category/news/">News</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-308"><a href="https://defsol.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="https://defsol.com/products/frontdoor/">FrontDoor</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://defsol.com/products/frontdoor-apxw-client/">FrontDoor APX/w (Client)</a></li>
+	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://defsol.com/products/our-products-in-use/">Our products in use</a></li>
+</ul>
+</li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-305"><a href="https://defsol.com/downloads/">Downloads</a>
+<ul class="sub-menu">
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-295"><a href="https://defsol.com/downloads/definite-solutions/">Definite Solutions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-updates-comml/">FrontDoor: Updates</a></li>
+		<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-shareware-versions/">FrontDoor: Shareware</a></li>
+		<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-docsinfo/">FrontDoor: Docs</a></li>
+		<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-utilities/">FrontDoor: Utilities</a></li>
+		<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-apxw-faq/">FDAPX/w: FAQ</a></li>
+		<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-apxw-shareware/">FDAPX/w: Shareware</a></li>
+		<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-apxw-demos/">FDAPX/w: Demos</a></li>
+		<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="https://defsol.com/downloads/definite-solutions/frontdoor-apxw-updates/">FDAPX/w: Updates</a></li>
+		<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="https://defsol.com/downloads/technical-documents/">Technical documents</a></li>
+	</ul>
+</li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="https://defsol.com/downloads/third-party-software/">Third party software</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="https://defsol.com/downloads/allfix/">ALLFIX</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-299"><a href="https://defsol.com/downloads/fossil-drivers/">FOSSIL drivers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://defsol.com/downloads/fossil-drivers/dos/">DOS</a></li>
+		<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="https://defsol.com/downloads/fossil-drivers/os2/">OS/2</a></li>
+		<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="https://defsol.com/downloads/fossil-drivers/windows/">Windows</a></li>
+	</ul>
+</li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="https://defsol.com/downloads/fastecho/">FastEcho</a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="https://defsol.com/downloads/ot-track/">O/T-Track</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="https://defsol.com/downloads/rarfar/">RAR/FAR</a></li>
+</ul>
+</li>
+<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="https://defsol.com/thank-you/">Thank you</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="https://defsol.com/the-last-airbender/">The last airbender</a></li>
+<li id="menu-item-462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462"><a href="https://defsol.com/contact/">Contact</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="https://defsol.com/">
+<input type="text" value="Search: type, hit enter" onfocus="if (this.value == 'Search: type, hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search: type, hit enter';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="SEARCH" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="https://defsol.com/">defsol.com</a></h1>
+		<h2>Definite Solutions; FrontDoor, FrontDoor APX, TosScan, XRobot &#8230;</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="post-single post-370 post type-post status-publish format-standard hentry category-documentation tag-frontdoor" id="post-370"><!-- post div -->
+		<h2 class="title">FrontDoor&#8217;s part in the 1991 Russian coup attempt</h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				Posted by <a href="https://defsol.com/author/joho/" title="View all posts by joho" rel="author">joho</a>
+				on				04-Oct-1991							</span>
+					</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<pre>(31)    Thu 3 Oct 91  4.29      Rcvd: Fri 4 Oct  9.48
+By: Pete Kvitek, JVD1BBS (2:5020/6)
+To: tomas bremin
+Re: hej
+St: Pvt Kill Rcvd
+------------------------------------------------------------
+@INTL 2:270/7 2:5020/6
+@MSGID: 2:5020/6 8a03fc9c
+@REPLY: 2:270/7@fidonet.eu 8988e8ac
+@PID: FM 2.02
+
+Hi Tomas!
+
+[other subjects discussed deleted]
+
+ &gt; WOW!  This was *VERY* exciting news to us!  I can
+ &gt; immediately see a nice part of a future brochure
+ &gt; describing your use of our product.  :-)  Will you
+ &gt; allow us to print that?
+
+Sure... we will be lucky to!
+
+ &gt; Would you be willing to help
+ &gt; me with some facts (i.e. how many nodes were hooked
+ &gt; up, how many messages were sent, etc)?  What did the
+ &gt; communication mean to the people outside Moscow who
+ &gt; couldn't get information elsewhere?  And so on..
+
+This friday we'll have a Moscow sysops meeting -- i'll ask everybody to provide
+you with more detailed info about their board operation. My board activities
+can be shortly described like this:
+
+On Aug 19 I disabled all file transfers and all messages areas but SU.POL  --
+this is all union echo mail area. Tossing/packing in all other areas was
+disabled as well. Mailer was set to the every second hour mail only mode. Then
+I start calling out voice all my fellow sysops in Moscow and other places i
+could reach asking them to do the same and poll me. That was my job as a 2:5020
+NC... Approx. 2/3 boards were unable to make long distance calls (probably
+because the chiefs of theirs phone stations were following decrees of those
+putchists). So this boards were set up to collect info from Moscovites and
+provide them with the latest news through the echo mail they got making the
+local calls.  Others were set up mail only to make long distance connections.
+Mine were Leningrad, Kharkov, Kiev, Novosibirsk, Khabarovsk and Chelyabinsk.
+This covers pretty big area i must say.
+
+Everything worked fine 'till the night 20/21 Aug -- at this time the
+connections were cut one by one -- this was a big time for one FrontDoor
+feature: "Alt-B/F6-Change Destination" At 11am on 21 all long distance
+connections were back again.
+
+All this continued for 72 sleeples hours -- my girlfriend typed in reports told
+by various people to my answering machine, i was transferring this info and
+reports sent to my internet address by RIA (Russian Info Agency) and InterFax
+guys, and from all other people all other a world who sent words of support and
+CNN reports -- all this went to the FidoNet -- the only free of charge publicly
+available service available.
+
+It's hard to estimate the real number of messages passed through the 5020/6 --
+a lot of them where dupes, not in the sence of echo mail, but messages with the
+same info or a report genereted from different boards. Since there was no way
+to check who knows what the only way for everyone was to pump in all the info
+s/he got so far...
+
+I would say that the number of really different messages passed through 5020/6
+would be something around 300-400 with the total amount 1342...
+
+The FrontDoor mailer prooved to be extrimely flexible and reconfigurable. Can
+you imagine to set up a new network configuration for approx. 20-30 nodes
+spread out across 1/6 of the globe under the stress of the goverment putch?
+
+I can't... but now I know for sure that this can be done with FrontDoor.
+
+All the best,
+
+&gt; Pete
+
+@Via FrontDoor 2:20/211@FidoNet, Oct 3 1991 at 8.00
+@Via Ping 2:201/329@fidonet, Oct 3 1991 at 06:11 UTC
+@Via MsgTrack+ 2:512/1@fidonet, Fri Oct 04 1991 at 01:30 UTC</pre>
+					</div><!-- END entry -->
+		<div class="add-info">
+					</div>
+		<div class="post-info-bottom">
+			<span class="post-info-category"><a href="https://defsol.com/category/documentation/" rel="category tag">Documentation</a></span><span class="post-info-tags"><a href="https://defsol.com/tag/frontdoor/" rel="tag">FrontDoor</a></span>
+		</div>
+		<div id="nav-below">
+			<div class="nav-previous"><a href="https://defsol.com/documentation/emsiiemsi-protocol-definitions-fsc-0056/" rel="prev"><span class="meta-nav">&larr;</span> EMSI/IEMSI Protocol Definitions (FSC-0056)</a></div>
+			<div class="nav-next"><a href="https://defsol.com/documentation/specifications-for-the-aflags-field-fsc-0053/" rel="next">Specifications for the ^aFLAGS field (FSC-0053) <span class="meta-nav">&rarr;</span></a></div>
+		</div><!-- #nav-below -->					
+	</div><!-- END post -->
+	<!-- You can start editing here. -->
+
+						<div id="comments-div"><h2 id="comments">Comments are closed.</h2></div>
+			</div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss rss_text" href="https://defsol.com/feed/" rel="bookmark" title="RSS Feed">RSS Feed</a>
+																													</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widgettitle">TaggeD</h3><div class="tagcloud"><a href='https://defsol.com/tag/3rd-party/' class='tag-link-9 tag-link-position-1' title='1 topic' style='font-size: 8pt;'>3rd party</a>
+<a href='https://defsol.com/tag/allfix/' class='tag-link-29 tag-link-position-2' title='1 topic' style='font-size: 8pt;'>ALLFIX</a>
+<a href='https://defsol.com/tag/commercial/' class='tag-link-30 tag-link-position-3' title='1 topic' style='font-size: 8pt;'>Commercial</a>
+<a href='https://defsol.com/tag/dos/' class='tag-link-10 tag-link-position-4' title='2 topics' style='font-size: 10.709677419355pt;'>DOS</a>
+<a href='https://defsol.com/tag/emsi/' class='tag-link-20 tag-link-position-5' title='2 topics' style='font-size: 10.709677419355pt;'>EMSI</a>
+<a href='https://defsol.com/tag/faq/' class='tag-link-12 tag-link-position-6' title='2 topics' style='font-size: 10.709677419355pt;'>faq</a>
+<a href='https://defsol.com/tag/fddev/' class='tag-link-32 tag-link-position-7' title='1 topic' style='font-size: 8pt;'>FDDEV</a>
+<a href='https://defsol.com/tag/frontdoor/' class='tag-link-26 tag-link-position-8' title='5 topics' style='font-size: 15.225806451613pt;'>FrontDoor</a>
+<a href='https://defsol.com/tag/frontdoor-apxw/' class='tag-link-27 tag-link-position-9' title='1 topic' style='font-size: 8pt;'>FrontDoor APX/w</a>
+<a href='https://defsol.com/tag/ftsc/' class='tag-link-17 tag-link-position-10' title='5 topics' style='font-size: 15.225806451613pt;'>FTSC</a>
+<a href='https://defsol.com/tag/jam/' class='tag-link-21 tag-link-position-11' title='1 topic' style='font-size: 8pt;'>JAM</a>
+<a href='https://defsol.com/tag/message-base/' class='tag-link-22 tag-link-position-12' title='1 topic' style='font-size: 8pt;'>message base</a>
+<a href='https://defsol.com/tag/netscape/' class='tag-link-13 tag-link-position-13' title='1 topic' style='font-size: 8pt;'>netscape</a>
+<a href='https://defsol.com/tag/os2/' class='tag-link-6 tag-link-position-14' title='3 topics' style='font-size: 12.516129032258pt;'>OS/2</a>
+<a href='https://defsol.com/tag/pid/' class='tag-link-18 tag-link-position-15' title='2 topics' style='font-size: 10.709677419355pt;'>PID</a>
+<a href='https://defsol.com/tag/rar/' class='tag-link-14 tag-link-position-16' title='1 topic' style='font-size: 8pt;'>rar</a>
+<a href='https://defsol.com/tag/shareware/' class='tag-link-28 tag-link-position-17' title='2 topics' style='font-size: 10.709677419355pt;'>Shareware</a>
+<a href='https://defsol.com/tag/update/' class='tag-link-7 tag-link-position-18' title='16 topics' style='font-size: 22pt;'>update</a>
+<a href='https://defsol.com/tag/utility/' class='tag-link-11 tag-link-position-19' title='5 topics' style='font-size: 15.225806451613pt;'>utility</a>
+<a href='https://defsol.com/tag/windows/' class='tag-link-8 tag-link-position-20' title='5 topics' style='font-size: 15.225806451613pt;'>Windows</a>
+<a href='https://defsol.com/tag/xrobot/' class='tag-link-31 tag-link-position-21' title='1 topic' style='font-size: 8pt;'>XRobot</a>
+<a href='https://defsol.com/tag/y2k/' class='tag-link-5 tag-link-position-22' title='2 topics' style='font-size: 10.709677419355pt;'>y2k</a>
+<a href='https://defsol.com/tag/aflags/' class='tag-link-19 tag-link-position-23' title='1 topic' style='font-size: 8pt;'>^aFLAGS</a></div>
+</div><div id="linkcat-15" class="widget widget_links"><h3 class="widgettitle">Links</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://archives.thebbs.org" rel="acquaintance neighbor" target="_blank">BBS Archives</a></li>
+<li><a href="http://www.cfos.de/index_e.htm" rel="acquaintance" target="_blank">cFos</a></li>
+<li><a href="http://www.docsplace.org" target="_blank">Doc&#039;s Place Online</a></li>
+<li><a href="http://www.softeq.de/Products/FastEcho/fastecho.html" rel="friend colleague" target="_blank">FastEcho</a></li>
+<li><a href="http://www.fidolook.org/" target="_blank">FidoLook</a></li>
+<li><a href="http://www.writebynight.com/nodelist_search.php" target="_blank">FidoNet nodelist search on the web</a></li>
+<li><a href="http://www.google.com/Top/Computers/Bulletin_Board_Systems/Fidonet/" title="Computers &gt; Bulletin Board Systems &gt; FidoNet" target="_blank">FidoNet on Google</a></li>
+<li><a href="http://www.fidonet.org" title="The world of FidoNet" target="_blank">fidonet.org</a></li>
+<li><a href="http://www.fidonet.us/fidoring/sitelist.html" title="FidoRing-FidoNet Web Ring" target="_blank">FidoRing-FidoNet Web Ring</a></li>
+<li><a href="http://www.ftsc.org" title="The FidoNet Technical Standards Committee" target="_blank">FTSC</a></li>
+<li><a href="http://www.piglets.com" title="The home of Colin Turner&#8217;s FidoNet output :-)" target="_blank">piglets.com</a></li>
+<li><a href="http://reboot.defsol.com" rel="me" title="Re-initializing modem" target="_blank">Reboot</a></li>
+<li><a href="http://www.rapro.com" title="The premier Bulletin Board System for the IBM PC and compatibles" target="_blank">RemoteAccess Central</a></li>
+<li><a href="http://bbs.thenet.gen.nz" target="_blank">The Trashcan BBS</a></li>
+<li><a href="http://www.wpusa.dynip.com" title="Fidonet, RemoteAccess, Frontdoor, Fastecho Support Site" target="_blank">Waldo&#039;s Place</a></li>
+
+	</ul>
+</div>
+<div id="linkcat-4" class="widget widget_links"><h3 class="widgettitle">Wikipedia</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://en.wikipedia.org/wiki/Bulletin_board_system" target="_blank">BBS</a></li>
+<li><a href="http://en.wikipedia.org/wiki/FastEcho" rel="friend colleague" title="FastEcho is a message processing package for FTN" target="_blank">FastEcho</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fidonet" title="FidoNet is a worldwide computer network" target="_blank">FidoNet</a></li>
+<li><a href="http://en.wikipedia.org/wiki/JAM_Message_Base_Format" title="The JAM Message Base Format" target="_blank">JAM</a></li>
+
+	</ul>
+</div>
